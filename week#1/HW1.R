@@ -87,3 +87,7 @@ mosaic::xqnorm(0.9999, mean=266, sd=16)
 #### PROBLEM 1.94 #####
 mosaic::xqnorm(0.99, mean=100, sd=15)
 
+#### PROBLEM 1.114 #####
+mosaic::xpnorm(10, mean=25, sd=5)
+mosaic::xqnorm(0.75, mean=25, sd=5)
+
